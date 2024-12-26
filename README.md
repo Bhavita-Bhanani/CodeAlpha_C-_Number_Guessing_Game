@@ -1,10 +1,10 @@
-# CodeAlpha Number Guessing Game
+# CodeAlpha Number Guessing Game 👾
 
 A simple number-guessing game written in C++ where players attempt to guess a randomly generated number between 1 and 100. This project demonstrates basic programming concepts such as loops, conditionals, and user interaction.
 
 ---
 
-## How to Play
+## 🌟How to Play🌟
 
 1. Run the program.
 2. The program will generate a secret number between 1 and 100.
@@ -15,7 +15,7 @@ A simple number-guessing game written in C++ where players attempt to guess a ra
 
 ---
 
-## Features
+## Features⚡️
 
 - Random number generation using `rand()`.
 - Interactive gameplay with clear feedback.
@@ -23,7 +23,7 @@ A simple number-guessing game written in C++ where players attempt to guess a ra
 
 ---
 
-## Requirements
+## Requirements☘️
 
 To compile and run the program, you'll need:
 
@@ -33,10 +33,47 @@ To compile and run the program, you'll need:
 
 ---
 
-## Installation and Running the Code
+## ⭐️Installation and Running the Code⭐️
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bhavita-Bhanani/CodeAlpha_Number_Guessing_Game.git
+2. Navigate to the project directory:
+   cd CodeAlpha_Number_Guessing_Game
+
+3. Compile the program:
+   g++ Number_Guessing_Game.cpp -o Number_Guessing_Game
+
+4. ./Number_Guessing_Game
+
+
+## Example Output
+
+Welcome to the Number Guessing Game!
+I've chosen a secret number between 1 and 100.
+Enter your guess: 50
+Too low! Try again.
+Enter your guess: 75
+Too high! Try again.
+Enter your guess: 60
+Congratulations! You guessed the number in 3 attempts.
+
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request. For major changes, please open an issue first to discuss your ideas.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+## Author🌟🌟
+
+Bhavita Bhanani
+Feel free to reach out at bhavitabhanani22@gmail.com or connect on GitHub!
+
+
+
 
 
 
